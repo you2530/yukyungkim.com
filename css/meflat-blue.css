@@ -624,6 +624,7 @@ a:focus,
 
 .skills {
     margin-top:60px;
+    margin-bottom:40px;
 }
 
 .chart {
@@ -644,8 +645,8 @@ a:focus,
 .percent {
     display: inline-block;
     line-height: 120px;
-	font-size:38px;
-	font-weight:300;
+    font-size: 28px;
+    font-weight: 300;
     z-index: 2;
 }
 .percent:after {
