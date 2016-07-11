@@ -13,3 +13,10 @@
     height: 100%;
 }
 
+.padding-bottom {
+    padding-bottom: 100px;
+}
+
+#skill1 {
+    margin-bottom: 40px
+}

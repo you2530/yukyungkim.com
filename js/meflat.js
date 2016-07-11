@@ -53,7 +53,7 @@ $(document).ready(function() {
 	$('.skills').waypoint(function(){
 		$('.chart').each(function(){
 		$(this).easyPieChart({
-				size:140,
+				size:120,
 				animate: 2000,
 				lineCap:'butt',
 				scaleColor: false,
